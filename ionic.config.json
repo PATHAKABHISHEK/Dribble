@@ -1,0 +1,7 @@
+{
+  "name": "Dribble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
